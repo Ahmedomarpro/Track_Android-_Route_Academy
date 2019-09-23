@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Route App one</string>
+
+    <string name="title_activity_splash_screen">splash_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="android">Android  Course</string>
+    <string name="ios_cours">IOS  Course</string>
+    <string name="button">Full  Stack</string>
+
+    <string name="xoxo"> X O X O </string>
+</resources>
